@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Mehra</h1>
-<h3 align="center">Software Engineer</h3>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sanjaymehra27" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sanjaymehra27?trk=profile-badge">Sanjay Mehra</a></div>
-              
+<h3 align="center">Software Engineer</h3>              
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaymehra-27&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaymehra-27" /> </p>
 
